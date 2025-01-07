@@ -65,6 +65,9 @@ include "koneksi.php";
 <li class="nav-item">
     <a class="nav-link" href="admin.php?page=article">Article</a>
 </li>
+<li class="nav-item">
+    <a class="nav-link" href="admin.php?page=gallery">Gallery</a>
+</li>
 <li>
 <!-- button dark mode -->
       <button id="darkmode">
