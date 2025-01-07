@@ -97,7 +97,7 @@ if (!isset($_SESSION['username'])) {
             include($_GET['page'].".php");
         }else{
         ?>
-            <h4 class="lead display-6 pb-2 border-bottom border-warning">Dashboard</h4>
+            <h4 class="lead display-6 pb-2 border-bottom border-warning text-dark" id="text">Dashboard</h4>
             <?php
             include("dashboard.php");
         }
