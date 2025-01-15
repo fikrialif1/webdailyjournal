@@ -240,7 +240,7 @@ session_start();
       <!-- Tautan -->
       <div class="tautan">
         <h1>Tautan</h1>
-        <a class="d-block text-dark text-decoration-none" href="#galeri">Gallery</a>
+        <a class="d-block text-dark text-decoration-none" href="#gallery">Gallery</a>
         <a class="d-block text-dark text-decoration-none" href="#hero">Home</a>
         <a class="d-block text-dark text-decoration-none" href="#article">Artikel</a>
       </div>
